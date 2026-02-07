@@ -1,0 +1,399 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "RC Monster Truck",
+      "category": "Monster Truck",
+      "description": "High power RC monster truck with oversized wheels.",
+      "price": "25000",
+      "rating": 4.6,
+      "image": "src/assets/rc monster truck.jpg"
+    },
+    {
+      "id": "2",
+      "title": "RC Drift Car",
+      "category": "Drift",
+      "description": "Smooth drifting RC car with precision control.",
+      "price": "3569",
+      "rating": 4.5,
+      "image": "src/assets/rc -rift-car.jpg"
+    },
+    {
+      "id": "3",
+      "title": "RC Rock Crawler",
+      "category": "Crawler",
+      "description": "Rock crawler built for extreme terrains.",
+      "price": "4896",
+      "rating": 4.7,
+      "image": "src/assets/rc rock crawler.jpg"
+    },
+    {
+      "id": "4",
+      "title": "RC Buggy",
+      "category": "Buggy",
+      "description": "Lightweight RC buggy for speed and jumps.",
+      "price": 2599,
+      "rating": 4.4,
+      "image": "src/assets/rc buggy car.jpg"
+    },
+    {
+      "id": "5",
+      "title": "RC Racing Car",
+      "category": "Racing",
+      "description": "High-speed RC racing car for tracks.",
+      "price": 3799,
+      "rating": 4.6,
+      "image": "src/assets/rc racing car.jpg"
+    },
+    {
+      "id": "6",
+      "title": "RC Offroad Jeep",
+      "category": "Offroad",
+      "description": "Jeep-style RC car for rough terrain.",
+      "price": 3199,
+      "rating": 4.5,
+      "image": "src/assets/rc jeep offroad.jpg"
+    },
+    {
+      "id": "7",
+      "title": "RC Pickup Truck",
+      "category": "Truck",
+      "description": "Powerful pickup RC truck.",
+      "price": 2999,
+      "rating": 4.3,
+      "image": "src/assets/rc pickup truck.jpg"
+    },
+    {
+      "id": "8",
+      "title": "RC Police Car",
+      "category": "Scale",
+      "description": "Police RC car with realistic design.",
+      "price": 2799,
+      "rating": 4.4,
+      "image": "src/assets/rc police car toy.jpg"
+    },
+    {
+      "id": "9",
+      "title": "RC Sports Car",
+      "category": "Sports",
+      "description": "Aerodynamic RC sports car.",
+      "price": 3099,
+      "rating": 4.5,
+      "image": "src/assets/RC Sports Car.jpg"
+    },
+    {
+      "id": "10",
+      "title": "RC Formula Car",
+      "category": "Formula",
+      "description": "Formula-style RC racing car.",
+      "price": 3999,
+      "rating": 4.7,
+      "image": "src/assets/RC Formula Car.jpg"
+    },
+    {
+      "id": "11",
+      "title": "RC Desert Truck",
+      "category": "Desert",
+      "description": "Desert RC truck with shock absorbers.",
+      "price": 3599,
+      "rating": 4.6,
+      "image": "src/assets/RC Desert Truck.jpg"
+    },
+    {
+      "id": "12",
+      "title": "RC Rally Car",
+      "category": "Rally",
+      "description": "Rally RC car for dirt tracks.",
+      "price": 3299,
+      "rating": 4.5,
+      "image": "src/assets/RC Rally Car.jpg"
+    },
+    {
+      "id": "13",
+      "title": "RC Muscle Car",
+      "category": "Muscle",
+      "description": "Classic muscle RC car.",
+      "price": 2999,
+      "rating": 4.4,
+      "image": "src/assets/RC Muscle Car.jpg"
+    },
+    {
+      "id": "14",
+      "title": "RC Mini Cooper",
+      "category": "Mini",
+      "description": "Mini Cooper RC model.",
+      "price": 2499,
+      "rating": 4.3,
+      "image": "src/assets/RC Mini Cooper.jpg"
+    },
+    {
+      "id": "15",
+      "title": "RC Lamborghini",
+      "category": "Supercar",
+      "description": "Luxury Lamborghini RC supercar.",
+      "price": 4599,
+      "rating": 4.8,
+      "image": "src/assets/RC Lamborghini.jpg"
+    },
+    {
+      "id": "16",
+      "title": "RC Ferrari",
+      "category": "Supercar",
+      "description": "Ferrari RC car with premium design.",
+      "price": 4699,
+      "rating": 4.8,
+      "image": "src/assets/RC Ferrari.jpg"
+    },
+    {
+      "id": "17",
+      "title": "RC Mustang",
+      "category": "Muscle",
+      "description": "Ford Mustang RC car.",
+      "price": 3399,
+      "rating": 4.6,
+      "image": "src/assets/RC Mustang.jpg"
+    },
+    {
+      "id": "18",
+      "title": "RC SUV",
+      "category": "SUV",
+      "description": "SUV style RC car.",
+      "price": 3199,
+      "rating": 4.4,
+      "image": "src/assets/RC SUV.jpg"
+    },
+    {
+      "id": "19",
+      "title": "RC Hummer",
+      "category": "Truck",
+      "description": "Heavy-duty Hummer RC truck.",
+      "price": 3899,
+      "rating": 4.6,
+      "image": "src/assets/RC Hummer.jpg"
+    },
+    {
+      "id": "20",
+      "title": "RC Jeep Wrangler",
+      "category": "Offroad",
+      "description": "Wrangler RC off-road vehicle.",
+      "price": 3499,
+      "rating": 4.5,
+      "image": "src/assets/RC Jeep Wrangle.jpg"
+    },
+    {
+      "id": "21",
+      "title": "RC Beetle",
+      "category": "Vintage",
+      "description": "Vintage Beetle RC car.",
+      "price": 2699,
+      "rating": 4.3,
+      "image": "src/assets/RC Beetle.jpg"
+    },
+    {
+      "id": "22",
+      "title": "RC Offroad Pickup",
+      "category": "Offroad",
+      "description": "Offroad pickup RC truck.",
+      "price": 3299,
+      "rating": 4.4,
+      "image": "src/assets/RC Offroad Pickup.jpg"
+    },
+    {
+      "id": "23",
+      "title": "RC Drift Skyline",
+      "category": "Drift",
+      "description": "Skyline drift RC car.",
+      "price": 3599,
+      "rating": 4.6,
+      "image": "src/assets/RC Drift Skyline.jpg"
+    },
+    {
+      "id": "24",
+      "title": "RC Roadster",
+      "category": "Roadster",
+      "description": "Stylish RC roadster.",
+      "price": 2899,
+      "rating": 4.4,
+      "image": "src/assets/RC Roadster.jpg"
+    },
+    {
+      "id": "25",
+      "title": "RC Pickup 4x4",
+      "category": "4x4",
+      "description": "4x4 pickup RC truck.",
+      "price": 3799,
+      "rating": 4.6,
+      "image": "src/assets/RC Pickup 4x4.jpg"
+    },
+    {
+      "id": "26",
+      "title": "RC Drift Supra",
+      "category": "Drift",
+      "description": "Toyota Supra drift RC car.",
+      "price": 3699,
+      "rating": 4.7,
+      "image": "src/assets/RC Drift Supra.jpg"
+    },
+    {
+      "id": "27",
+      "title": "RC Hyper Car",
+      "category": "Hypercar",
+      "description": "High-performance RC hypercar.",
+      "price": 4999,
+      "rating": 4.9,
+      "image": "src/assets/RC Hyper Car.jpg"
+    },
+    {
+      "id": "28",
+      "title": "RC Mini Truck",
+      "category": "Truck",
+      "description": "Compact RC mini truck.",
+      "price": 2399,
+      "rating": 4.2,
+      "image": "src/assets/RC Mini Truck.jpg"
+    },
+    {
+      "id": "29",
+      "title": "RC Track Car",
+      "category": "Track",
+      "description": "Track-focused RC car.",
+      "price": 3899,
+      "rating": 4.6,
+      "image": "src/assets/RC Track Car.jpg"
+    },
+    {
+      "id": "30",
+      "title": "RC Speedster",
+      "category": "Speed",
+      "description": "Ultra-fast RC speed car.",
+      "price": 4199,
+      "rating": 4.7,
+      "image": "src/assets/RC Speedster.jpg"
+    },
+    {
+      "id": "31",
+      "title": "RC Luxury Sedan",
+      "category": "Luxury",
+      "description": "Luxury RC sedan car.",
+      "price": 4599,
+      "rating": 4.8,
+      "image": "src/assets/RC Luxury Sedan.jpg"
+    },
+    {
+      "id": "32",
+      "title": "RC Thunder Truck",
+      "category": "Monster Truck",
+      "description": "Thunder-powered monster RC truck.",
+      "price": 3899,
+      "rating": 4.6,
+      "image": "src/assets/RC Thunder Truck.jpg"
+    },
+    {
+      "id": "33",
+      "title": "RC Trail Crawler",
+      "category": "Crawler",
+      "description": "Trail crawler RC car.",
+      "price": 4299,
+      "rating": 4.7,
+      "image": "src/assets/RC Trail Crawler.jpg"
+    },
+    {
+      "id": "34",
+      "title": "RC Classic Sedan",
+      "category": "Classic",
+      "description": "Classic style RC sedan.",
+      "price": 2799,
+      "rating": 4.3,
+      "image": "src/assets/RC Classic Sedan.jpg"
+    },
+    {
+      "id": "35",
+      "title": "RC Street Racer",
+      "category": "Street",
+      "description": "Street racing RC car.",
+      "price": 3499,
+      "rating": 4.5,
+      "image": "src/assets/RC Street Racer.jpg"
+    },
+    {
+      "id": "f549",
+      "title": "",
+      "category": "",
+      "description": "",
+      "price": "",
+      "rating": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "15d8",
+      "firstName": "Ajay",
+      "lastName": "Ullengalla",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "0ae0",
+      "firstName": "Ajay",
+      "lastName": "Ullengalla",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "0eb4",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "059f",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "80b8",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "4293",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "db1d",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "ad92",
+      "firstName": "",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "df93",
+      "firstName": "j",
+      "lastName": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "52bd",
+      "firstName": "Ajay",
+      "lastName": "Ullengalla",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
