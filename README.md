@@ -230,7 +230,7 @@ This project is licensed under the MIT License.
 **Ajay Ullengalla**
 - Java Full Stack & React Developer
 - GitHub: [@ajayullengalla](https://github.com/ajayullengalla)
-- Email: ajay.ullengalla@example.com
+- Email: ullengallaajay28@gmail.com
 
 ---
 
